@@ -9,8 +9,8 @@ Data analysis and visualisation project for BlinkIT using the provided Excel dat
 - `README.md`, `.gitignore`, `LICENSE`
 
 ## How to run
-1. Open `data/BlinkIT Dashboard.xlsx` in Excel or import it into Power BI.
-2. (Optional) Open `notebooks/analysis.ipynb` with Jupyter Lab / Notebook.
+1. Open `"C:\Users\hp\OneDrive\Desktop\BlinkIT Dashboard.xlsx"` in Excel or import it into Power BI.
+
 
 ## Goals
 - Extract KPIs: total sales, orders, avg. order value
